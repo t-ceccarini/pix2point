@@ -1,0 +1,9 @@
+# Ignore all PNG and JPG image files
+*.png
+*.jpg
+
+# Ignore .venv directories (virtual environments)
+.venv/
+
+# Ignore points_3d.txt files
+points_3d.txt
